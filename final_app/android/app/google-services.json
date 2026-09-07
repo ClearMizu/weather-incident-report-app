@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878620400130",
+    "project_id": "weather-report-537a0",
+    "storage_bucket": "weather-report-537a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878620400130:android:604c93f08fbbed07b5251b",
+        "android_client_info": {
+          "package_name": "com.example.final_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSqAJL-vVj6h2vvwwU2ND3huIoPHKxeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
